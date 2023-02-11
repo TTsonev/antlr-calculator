@@ -1,6 +1,6 @@
 /**
  * @author Trayan Tsonev
- * @id 12127140
+ * @id
  */
 
 grammar BigCalcProg;
